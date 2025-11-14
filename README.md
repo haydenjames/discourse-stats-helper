@@ -1,4 +1,4 @@
-![discourse-stats-helper screenshot](https://linuxcommunity.io/uploads/default/original/2X/4/4f0cab7dfcbba97c93b79faf4e0fc9a90d5174e8.png)
+![discourse-stats-helper screenshot](https://linuxcommunity.io/uploads/default/original/2X/f/f959d2dc21c3d52caa9706eee0ac6c02c244b00a.png)
 
 This is a small helper script built for anyone running, managing, or using a Discourse forum. It provides an interactive menu for quickly retrieving live forum statistics from the `site/statistics.json` endpoint using `curl` and `jq`. 
 
