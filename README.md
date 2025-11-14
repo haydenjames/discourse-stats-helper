@@ -57,5 +57,5 @@ This will connect to your forum and display its available statistics.
 The full source and documentation are available here:
 **[https://github.com/haydenjames/discourse-stats-helper](https://github.com/haydenjames/discourse-stats-helper)**
 
-# **Original Post**  
+### **More details**  
 https://linuxcommunity.io/t/discourse-stats-helper-bash-script/6012
