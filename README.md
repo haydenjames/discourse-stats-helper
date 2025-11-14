@@ -15,12 +15,12 @@ The tool supports both interactive and one-off direct queries. It automatically 
 
 ### **What it does**
 
-• Fetches all numeric statistics from `/site/statistics.json`
-• Supports single metric lookup (topics, posts, likes, users, etc.)
-• Provides an interactive menu for browsing metrics
-• Works on any Discourse instance (self-hosted or hosted)
-• Handles missing fields cleanly
-• Requires only `bash`, `curl`, and `jq` `apt install curl jq`
+* Fetches all numeric statistics from `/site/statistics.json`
+* Supports single metric lookup (topics, posts, likes, users, etc.)
+* Provides an interactive menu for browsing metrics
+* Works on any Discourse instance (self-hosted or hosted)
+* Handles missing fields cleanly
+* Requires only `bash`, `curl`, and `jq` - `apt install curl jq`
 
 ---
 
